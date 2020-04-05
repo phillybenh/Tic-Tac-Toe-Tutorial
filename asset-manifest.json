@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phillybenh/Tic-Tac-Toe-Tutorial/static/css/main.cb718b96.chunk.css",
+    "main.js": "/phillybenh/Tic-Tac-Toe-Tutorial/static/js/main.85598690.chunk.js",
+    "main.js.map": "/phillybenh/Tic-Tac-Toe-Tutorial/static/js/main.85598690.chunk.js.map",
+    "runtime-main.js": "/phillybenh/Tic-Tac-Toe-Tutorial/static/js/runtime-main.5aadbd95.js",
+    "runtime-main.js.map": "/phillybenh/Tic-Tac-Toe-Tutorial/static/js/runtime-main.5aadbd95.js.map",
+    "static/js/2.1363ebc9.chunk.js": "/phillybenh/Tic-Tac-Toe-Tutorial/static/js/2.1363ebc9.chunk.js",
+    "static/js/2.1363ebc9.chunk.js.map": "/phillybenh/Tic-Tac-Toe-Tutorial/static/js/2.1363ebc9.chunk.js.map",
+    "index.html": "/phillybenh/Tic-Tac-Toe-Tutorial/index.html",
+    "precache-manifest.b7724d99d4512c3b5cb33518bd941b11.js": "/phillybenh/Tic-Tac-Toe-Tutorial/precache-manifest.b7724d99d4512c3b5cb33518bd941b11.js",
+    "service-worker.js": "/phillybenh/Tic-Tac-Toe-Tutorial/service-worker.js",
+    "static/css/main.cb718b96.chunk.css.map": "/phillybenh/Tic-Tac-Toe-Tutorial/static/css/main.cb718b96.chunk.css.map",
+    "static/js/2.1363ebc9.chunk.js.LICENSE.txt": "/phillybenh/Tic-Tac-Toe-Tutorial/static/js/2.1363ebc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aadbd95.js",
+    "static/js/2.1363ebc9.chunk.js",
+    "static/css/main.cb718b96.chunk.css",
+    "static/js/main.85598690.chunk.js"
+  ]
+}
